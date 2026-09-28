@@ -1,0 +1,8 @@
+[environment]
+python = "/opt/homebrew/Caskroom/miniforge/base/envs/openmm"
+
+# OpenMM builds some units dynamically at import time, which static
+# checkers can't see, so silence the resulting false positives.
+[rules]
+unresolved-reference = "ignore"
+unsupported-operator = "ignore"
