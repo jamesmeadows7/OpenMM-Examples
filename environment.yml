@@ -6,4 +6,6 @@ dependencies:
   - openmm
   - openmm-setup
   - python
+  - openmmtools
+  - pymbar
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/openmm
