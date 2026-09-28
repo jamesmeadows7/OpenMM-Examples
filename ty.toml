@@ -5,4 +5,5 @@ python = "/opt/homebrew/Caskroom/miniforge/base/envs/openmm"
 # checkers can't see, so silence the resulting false positives.
 [rules]
 unresolved-reference = "ignore"
+unresolved-attribute = "ignore"
 unsupported-operator = "ignore"
