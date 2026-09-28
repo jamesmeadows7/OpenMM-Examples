@@ -1,0 +1,9 @@
+name: openmm
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - openmm
+  - openmm-setup
+  - python
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/openmm
