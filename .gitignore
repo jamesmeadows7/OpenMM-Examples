@@ -12,3 +12,4 @@ wheels/
 # OpenMM files
 *.dcd
 *.chk
+*.xtc

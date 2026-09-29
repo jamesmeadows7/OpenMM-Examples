@@ -8,4 +8,8 @@ dependencies:
   - python
   - openmmtools
   - pymbar
+  - mdanalysis
+  - orb-models
+  - torchmd-net
+  - openmm-ml
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/openmm
